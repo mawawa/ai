@@ -1,4 +1,4 @@
-package com.nano.AI.nanoAI.types.B;
+package com.nano.AI.nanoAI.aitypes.B;
 
 public class ReactiveMachine implements AITypeB {
 

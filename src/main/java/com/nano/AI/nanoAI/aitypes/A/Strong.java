@@ -1,4 +1,4 @@
-package com.nano.AI.nanoAI.types.A;
+package com.nano.AI.nanoAI.aitypes.A;
 
 public class Strong implements AITypeA {
     @Override
