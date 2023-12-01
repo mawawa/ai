@@ -1,10 +1,8 @@
-package com.nano.AI.nanoAI.types;
-
-import com.nano.AI.nanoAI.Nano;
+package com.nano.AI.nanoAI.types.B;
 
 import java.util.List;
 
-public class Selfawareness implements Nano {
+public class Selfawareness implements AITypeB {
     public String whatYouAre;
     public String whoYouAre;
     public String whereYourAre;

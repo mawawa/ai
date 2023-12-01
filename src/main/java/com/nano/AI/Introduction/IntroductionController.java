@@ -1,7 +1,6 @@
 package com.nano.AI.Introduction;
 
 import ch.qos.logback.core.model.Model;
-import com.nano.AI.nanoAI.Nano;
 import com.nano.AI.nanoAI.NanoAI;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
