@@ -17,6 +17,7 @@ public class NanoAI {
     List<String> typesOfIntelligence;
     AITypeA typeAIntelligence;
     AITypeB typeBIntelligence;
+    Situation situation;
 
     //this is a portion that i feel may later be necessary
     public boolean defineGoal(){
@@ -25,6 +26,10 @@ public class NanoAI {
 
     //the ai should be able to reason
     public boolean reason(Situation situation){
+        if(situation.isDeductive()){
+            //this situation must be deduced.
+
+        }
         throw new UnsupportedOperationException("This method needs to be implemented");
     }
 
